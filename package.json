@@ -1,0 +1,21 @@
+{
+  "name": "health-tracker",
+  "version": "1.0.0",
+  "description": "A full-stack web application for tracking health statistics and goals",
+  "main": "server/server.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && nodemon server.js",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "install-deps": "npm install && cd client && npm install && cd ../server && npm install",
+    "start": "cd server && node server.js"
+  },
+  "keywords": ["health", "tracker", "react", "nodejs", "mongodb"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.1"
+  }
+}
