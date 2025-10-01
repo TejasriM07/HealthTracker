@@ -3,16 +3,16 @@
 A comprehensive full-stack web application for tracking health statistics, setting goals, and visualizing progress through interactive charts and modern UI components.
 
 
-###login page
+### login page
 <img width="2047" height="1222" alt="image" src="https://github.com/user-attachments/assets/5c18c93b-9b59-4fef-bf06-71b30c5e0341" />
 
-###home page
+### home page
 <img width="2069" height="1226" alt="image" src="https://github.com/user-attachments/assets/42247df5-5625-4965-9c74-e9db370458ab" />
 
-###Goals page
+### Goals page
 <img width="2066" height="1215" alt="image" src="https://github.com/user-attachments/assets/0094fde3-0988-4b78-9f04-8e376776bb21" />
 
-###Todays Entry
+### Todays Entry
 <img width="1983" height="1226" alt="image" src="https://github.com/user-attachments/assets/a9753e0e-7899-42f8-95b5-2868b99a72ad" />
 
 
